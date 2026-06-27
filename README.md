@@ -72,6 +72,7 @@ The pipeline runs two YOLO models in sequence on each frame:
 | 6 | Log violation + export annotated output | CSV log + result image/video |
 
 ---
+<img width="1092" height="648" alt="image" src="https://github.com/user-attachments/assets/a67150e5-0144-437c-a4ea-9e52313dd988" />
 
 ## 🚀 Getting Started
 
